@@ -1,1 +1,1 @@
-# DataPredict-Neural-Tutorials-Source-Codes
+DataPredict Neural’s and TensorL’s libraries terms and conditions apply due to source code containing these libraries. You can view it [here](https://aqwamcreates.github.io/DataPredict-Neural/TermsAndConditions.html) and [here](https://aqwamcreates.github.io/TensorL/docs/TermsAndConditions.html).
